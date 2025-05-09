@@ -1,0 +1,1 @@
+"""Knowledge Graph component tests."""
